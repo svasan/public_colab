@@ -1,2 +1,2 @@
 # public_colab
-Colab notebooks that are public
+Public Colab notebooks 
